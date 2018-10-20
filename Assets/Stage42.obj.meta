@@ -131,7 +131,37 @@ ModelImporter:
     4300042: Mesh5_Group4_Group2_Model
     4300044: Mesh7_Group5_Group2_Model
     4300046: Mesh9_Group6_Model
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackColor
+    second: {fileID: 2100000, guid: dd1377d8a6dff114694e65a602d425f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_H05
+    second: {fileID: 2100000, guid: 1da8a4c486307b644b53d8e9a6557744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_J07
+    second: {fileID: 2100000, guid: e4eaa419148da3342958513a8f3b638b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_K06
+    second: {fileID: 2100000, guid: 979a3630a092fe54b8861897d9ad8956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M09
+    second: {fileID: 2100000, guid: a0ba2032a4e78b7489644a37fe58cb77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 65688706e8b4e1f418c432856f73ab93, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
